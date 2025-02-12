@@ -8,7 +8,7 @@ If you have any enquiries about sample source code or our products, please conta
 
 < https://www.patlite.com/contact/english/input.html >
 
-![LR5-LAN](LR5-LAN_500px-250px.jpg)
+![LR5-LAN_500px-250px](https://github.com/user-attachments/assets/84a55754-9d01-45f0-a126-af413b15c70f)
 
 [Product info](https://www.patlite.co.jp/product/detail0000000983.html) 
 
